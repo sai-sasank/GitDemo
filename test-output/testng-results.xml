@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="13" passed="11" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-02T15:25:54 IST" name="Suite" finished-at="2024-05-02T15:25:54 IST" duration-ms="261">
+    <groups>
+      <group name="smoke">
+        <method signature="Day2.WebLoginCarLoan()[pri:0, instance:Day2@7193666c]" name="WebLoginCarLoan" class="Day2"/>
+        <method signature="Day3.MobileLoginHomeLoan()[pri:0, instance:Day3@9f116cc]" name="MobileLoginHomeLoan" class="Day3"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2024-05-02T15:25:54 IST" name="Personal Loan" finished-at="2024-05-02T15:25:54 IST" duration-ms="121">
+      <class name="Day2">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:Day2@7193666c]" started-at="2024-05-02T15:25:54 IST" name="beforeclass" finished-at="2024-05-02T15:25:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="BFMethod()[pri:0, instance:Day2@7193666c]" started-at="2024-05-02T15:25:54 IST" name="BFMethod" finished-at="2024-05-02T15:25:54 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BFMethod -->
+        <test-method signature="MobileSigninCarLoan()[pri:0, instance:Day2@7193666c]" started-at="2024-05-02T15:25:54 IST" name="MobileSigninCarLoan" finished-at="2024-05-02T15:25:54 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileSigninCarLoan -->
+        <test-method is-config="true" signature="AFMethod()[pri:0, instance:Day2@7193666c]" started-at="2024-05-02T15:25:54 IST" name="AFMethod" finished-at="2024-05-02T15:25:54 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AFMethod -->
+        <test-method is-config="true" signature="BFMethod()[pri:0, instance:Day2@7193666c]" started-at="2024-05-02T15:25:54 IST" name="BFMethod" finished-at="2024-05-02T15:25:54 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BFMethod -->
+        <test-method signature="WebLoginCarLoan()[pri:0, instance:Day2@7193666c]" started-at="2024-05-02T15:25:54 IST" name="WebLoginCarLoan" finished-at="2024-05-02T15:25:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebLoginCarLoan -->
+        <test-method is-config="true" signature="AFMethod()[pri:0, instance:Day2@7193666c]" started-at="2024-05-02T15:25:54 IST" name="AFMethod" finished-at="2024-05-02T15:25:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AFMethod -->
+        <test-method is-config="true" signature="BFMethod()[pri:0, instance:Day2@7193666c]" started-at="2024-05-02T15:25:54 IST" name="BFMethod" finished-at="2024-05-02T15:25:54 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BFMethod -->
+        <test-method signature="MobileEnterCarLoan()[pri:0, instance:Day2@7193666c]" started-at="2024-05-02T15:25:54 IST" name="MobileEnterCarLoan" finished-at="2024-05-02T15:25:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileEnterCarLoan -->
+        <test-method is-config="true" signature="AFMethod()[pri:0, instance:Day2@7193666c]" started-at="2024-05-02T15:25:54 IST" name="AFMethod" finished-at="2024-05-02T15:25:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AFMethod -->
+        <test-method is-config="true" signature="BFMethod()[pri:0, instance:Day2@7193666c]" started-at="2024-05-02T15:25:54 IST" name="BFMethod" finished-at="2024-05-02T15:25:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BFMethod -->
+        <test-method signature="MobileLoginCarLoan()[pri:0, instance:Day2@7193666c]" started-at="2024-05-02T15:25:54 IST" name="MobileLoginCarLoan" finished-at="2024-05-02T15:25:54 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileLoginCarLoan -->
+        <test-method is-config="true" signature="AFMethod()[pri:0, instance:Day2@7193666c]" started-at="2024-05-02T15:25:54 IST" name="AFMethod" finished-at="2024-05-02T15:25:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AFMethod -->
+        <test-method is-config="true" signature="BFMethod()[pri:0, instance:Day2@7193666c]" started-at="2024-05-02T15:25:54 IST" name="BFMethod" finished-at="2024-05-02T15:25:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BFMethod -->
+        <test-method signature="MobileSignOutCarLoan(java.lang.String,java.lang.String)[pri:0, instance:Day2@7193666c]" started-at="2024-05-02T15:25:54 IST" name="MobileSignOutCarLoan" data-provider="GetData" finished-at="2024-05-02T15:25:54 IST" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firstsetusername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firstpassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileSignOutCarLoan -->
+        <test-method is-config="true" signature="AFMethod()[pri:0, instance:Day2@7193666c]" started-at="2024-05-02T15:25:54 IST" name="AFMethod" finished-at="2024-05-02T15:25:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AFMethod -->
+        <test-method is-config="true" signature="BFMethod()[pri:0, instance:Day2@7193666c]" started-at="2024-05-02T15:25:54 IST" name="BFMethod" finished-at="2024-05-02T15:25:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BFMethod -->
+        <test-method signature="MobileSignOutCarLoan(java.lang.String,java.lang.String)[pri:0, instance:Day2@7193666c]" started-at="2024-05-02T15:25:54 IST" name="MobileSignOutCarLoan" data-provider="GetData" finished-at="2024-05-02T15:25:54 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[secondsetusername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secondpassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileSignOutCarLoan -->
+        <test-method is-config="true" signature="AFMethod()[pri:0, instance:Day2@7193666c]" started-at="2024-05-02T15:25:54 IST" name="AFMethod" finished-at="2024-05-02T15:25:54 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AFMethod -->
+        <test-method signature="MobileSignOutCarLoan(java.lang.String,java.lang.String)[pri:0, instance:Day2@7193666c]" started-at="2024-05-02T15:25:54 IST" name="MobileSignOutCarLoan" data-provider="GetData" finished-at="2024-05-02T15:25:54 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[thirdsetusername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[thirdpassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileSignOutCarLoan -->
+        <test-method is-config="true" signature="BFMethod()[pri:0, instance:Day2@7193666c]" started-at="2024-05-02T15:25:54 IST" name="BFMethod" finished-at="2024-05-02T15:25:54 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BFMethod -->
+        <test-method is-config="true" signature="AFMethod()[pri:0, instance:Day2@7193666c]" started-at="2024-05-02T15:25:54 IST" name="AFMethod" finished-at="2024-05-02T15:25:54 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AFMethod -->
+        <test-method is-config="true" signature="BFMethod()[pri:0, instance:Day2@7193666c]" started-at="2024-05-02T15:25:54 IST" name="BFMethod" finished-at="2024-05-02T15:25:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BFMethod -->
+        <test-method signature="APICarLoan()[pri:0, instance:Day2@7193666c]" started-at="2024-05-02T15:25:54 IST" name="APICarLoan" finished-at="2024-05-02T15:25:54 IST" depends-on-methods="Day2.WebLoginCarLoan" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APICarLoan -->
+        <test-method is-config="true" signature="AFMethod()[pri:0, instance:Day2@7193666c]" started-at="2024-05-02T15:25:54 IST" name="AFMethod" finished-at="2024-05-02T15:25:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AFMethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:Day2@7193666c]" started-at="2024-05-02T15:25:54 IST" name="afterclass" finished-at="2024-05-02T15:25:54 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- Day2 -->
+      <class name="Day">
+        <test-method is-config="true" signature="prerequisite()[pri:0, instance:Day@2ef3eef9]" started-at="2024-05-02T15:25:54 IST" name="prerequisite" finished-at="2024-05-02T15:25:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prerequisite -->
+        <test-method signature="Demo2()[pri:0, instance:Day@2ef3eef9]" started-at="2024-05-02T15:25:54 IST" name="Demo2" finished-at="2024-05-02T15:25:54 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo2 -->
+        <test-method is-config="true" signature="lastexecution()[pri:0, instance:Day@2ef3eef9]" started-at="2024-05-02T15:25:54 IST" name="lastexecution" finished-at="2024-05-02T15:25:54 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lastexecution -->
+      </class> <!-- Day -->
+    </test> <!-- Personal Loan -->
+    <test started-at="2024-05-02T15:25:54 IST" name="Car Loan" finished-at="2024-05-02T15:25:54 IST" duration-ms="15">
+      <class name="Day3">
+        <test-method is-config="true" signature="BFSuite()[pri:0, instance:Day3@9f116cc]" started-at="2024-05-02T15:25:54 IST" name="BFSuite" finished-at="2024-05-02T15:25:54 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BFSuite -->
+        <test-method signature="LoginAPIHomeLoan()[pri:0, instance:Day3@9f116cc]" started-at="2024-05-02T15:25:54 IST" name="LoginAPIHomeLoan" finished-at="2024-05-02T15:25:54 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAPIHomeLoan -->
+        <test-method signature="MobileLoginHomeLoan()[pri:0, instance:Day3@9f116cc]" started-at="2024-05-02T15:25:54 IST" name="MobileLoginHomeLoan" finished-at="2024-05-02T15:25:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileLoginHomeLoan -->
+        <test-method signature="WebLoginHomeLoan(java.lang.String,java.lang.String)[pri:0, instance:Day3@9f116cc]" started-at="2024-05-02T15:25:54 IST" name="WebLoginHomeLoan" finished-at="2024-05-02T15:25:54 IST" duration-ms="0" status="FAIL">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Parameter 'Url' is required by @Test on method WebLoginHomeLoan but has not been marked @Optional or defined
+in C:\Users\saisa\eclipse-workspace\TestNGTutorial\testng.xml]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Parameter 'Url' is required by @Test on method WebLoginHomeLoan but has not been marked @Optional or defined
+in C:\Users\saisa\eclipse-workspace\TestNGTutorial\testng.xml
+at org.testng.internal.Parameters.createParams(Parameters.java:270)
+at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:358)
+at org.testng.internal.Parameters.createParameters(Parameters.java:700)
+at org.testng.internal.Parameters.handleParameters(Parameters.java:884)
+at org.testng.internal.Parameters.handleParameters(Parameters.java:740)
+at org.testng.internal.ParameterHandler.handleParameters(ParameterHandler.java:59)
+at org.testng.internal.ParameterHandler.createParameters(ParameterHandler.java:38)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:791)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebLoginHomeLoan -->
+      </class> <!-- Day3 -->
+      <class name="Day">
+        <test-method is-config="true" signature="AfSuite()[pri:0, instance:Day@2ef3eef9]" started-at="2024-05-02T15:25:54 IST" name="AfSuite" finished-at="2024-05-02T15:25:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfSuite -->
+      </class> <!-- Day -->
+    </test> <!-- Car Loan -->
+  </suite> <!-- Suite -->
+</testng-results>

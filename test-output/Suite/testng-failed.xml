@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Car Loan(failed)">
+    <parameter name="APIKey/usrname" value="123456"/>
+    <parameter name="URL" value="Carloan.com"/>
+    <classes>
+      <class name="Day3">
+        <methods>
+          <include name="BFSuite"/>
+          <include name="WebLoginHomeLoan"/>
+        </methods>
+      </class> <!-- Day3 -->
+    </classes>
+  </test> <!-- Car Loan(failed) -->
+</suite> <!-- Failed suite [Suite] -->
